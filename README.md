@@ -10,6 +10,6 @@ The circuit uses AND gates to create partial products and two half adders to com
 
 ## Try the simulation
 
-[Open the circuit in CircuitVerse](https://circuitverse.org/users/484518/projects/2-bit-binary-multier-0c36b948-04cd-4683-8989-f0892ec3557b)
+[Open the circuit in CircuitVerse](https://circuitverse.org/users/484518/projects/2-bit-binary-multipier-decd8867-cb0b-40fa-be56-6b1c436ecd86)
 
 Example: 11₂ × 10₂ = 0110₂ (3 × 2 = 6).
